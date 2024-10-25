@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/PRANAY130/PRANAY130/blob/7442e28f6db7159b90d1184b5afa7ac4fa2c5c26/assets/tenor.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/PRANAY130/PRANAY130/blob/master/assets/tenor.gif">
 </div>
 
 </br>

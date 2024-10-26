@@ -12,7 +12,7 @@
 ### - I'm 2nd year CSE(AIML) student  from India.
 
 <!-- <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif"> -->
-<img align="right"  src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500" hight="400" >
+<img align="right"  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500" hight="400" >
 <br><br>
 
 ### - Interests :

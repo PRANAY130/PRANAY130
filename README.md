@@ -74,7 +74,7 @@
 
 ---
 
-##  **Achievements and Badges**
+#  **Achievements and Badges**
 
 [![An image of @pranay130's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranay130)](https://holopin.io/@pranay130)
 

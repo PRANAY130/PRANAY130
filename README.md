@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PRANAY130&label=Profile%20views&color=0e75b6&style=flat" alt="PRANAY130" /> </p>
+
 # Hi folks 👋
 
 <div align="center">

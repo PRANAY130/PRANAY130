@@ -80,6 +80,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+# Github Stats
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=PRANAY130&show_icons=true&theme=radical&hide_border=true" alt="PRANAY" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=PRANAY130&theme=radical&hide_border=true" alt="PRANAY" /></td>
+  </tr>
+</table>
+
 #  **Achievements and Badges**
 
 [![An image of @pranay130's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranay130)](https://holopin.io/@pranay130)

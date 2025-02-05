@@ -108,8 +108,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://www.linkedin.com/in/pranay-de-026370312/">
  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
 </a>
-<a href="https://www.linkedin.com/in/pranay-de-026370312/">
- <img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="100">
 </br>
 </br>
 </br>

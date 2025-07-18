@@ -56,7 +56,7 @@ Data_Science: "Extracting insights from data"
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=🎮+Currently+playing+Valorant;📺+Watching+Attack+on+Titan;📚+Reading+Sci-Fi+novels;🎨+Creating+digital+art;🔬+Exploring+AI+innovations" alt="Hobbies Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=🎮+Currently+playing+Ghost+of+Tsushima;📺+Watching+OnePiece;📚+Reading+Sci-Fi+novels;🎨+Creating+digital+art;🔬+Exploring+AI+innovations" alt="Hobbies Animation" />
 </div>
 
 </td>

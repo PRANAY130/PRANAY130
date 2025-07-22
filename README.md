@@ -176,9 +176,16 @@ Data_Science: "Extracting insights from data"
   </tr>
 </table>
 
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PRANAY130&theme=dracula" alt="TROPHIES" />
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRANAY130&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
 </div>
+
 
 <br>
 

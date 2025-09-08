@@ -168,7 +168,7 @@ Data_Science: "Extracting insights from data"
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PRANAY130&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=PRANAY130&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" />
